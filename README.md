@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @zyjjjjjjjj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello！;你好！&center=true&size=35">
+  </a>
+  
+**MY ![Visitor Count](https://profile-counter.glitch.me/zyjjjjjjjj/count.svg) VISITORS**
+
+</h1>
 
 <!---
 zyjjjjjjjj/zyjjjjjjjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
